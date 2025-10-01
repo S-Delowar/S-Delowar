@@ -16,7 +16,7 @@ I am passionate AI and Data Science with a strong background in <strong> LLMs, A
 
 ✅ **Programming & AI**: Python, SQL, JavaScript, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain
 
-✅ **Machine Learning & NLP**: Transformers, Embeddings, Fine-Tuning, RAG, Computer Vision
+✅ **Machine Learning & NLP**: LLMs, Transformers, Embeddings, Fine-Tuning, RAG, Computer Vision
 
 ✅ **MLOps & Cloud**: MLflow, DVC, Airflow, W&B, Docker, GitHub Actions, AWS (S3, EC2), CI/CD
 

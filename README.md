@@ -4,22 +4,27 @@
 
 <h1 align="center">Hi there 👋, I'm Md Sayed Delowar</h1>
 
-<h3 align="center">AI and Data Science Enthusiast</h3>
+<h3 align="center">Full Stack AI/ML Engineer</h3>
 
 ## 👋 About Me
 
 <p align="justify">
-I am passionate AI and Data Science with a strong background in <strong>Machine Learning, MLOps, Data Engineering, and Web Development</strong>. I enjoy building <strong>scalable solutions</strong>, automating workflows, and deploying <strong>production-ready systems</strong>.
+I am passionate AI and Data Science with a strong background in <strong> LLMs, AI Agents, Machine Learning, Deep Learning, NLP, MLOps, and Web Development</strong>. I enjoy building <strong>scalable solutions</strong>, finetuning models, automating workflows, and deploying <strong>production-ready systems</strong>.
 </p>
 
 ## 🛠️ Skills
 
-✅ **Programming:** Python, JavaScript, SQL  
-✅ **Machine Learning & Data Science:** TensorFlow, Scikit-Learn, NLP, Computer Vision  
-✅ **MLOps & Workflow Automation:** DVC, MLflow, Docker, Git, AWS, Apache Airflow  
-✅ **Data Engineering & Visualization:** Pandas, NumPy, Matplotlib, SQL, ETL pipelines  
-✅ **Database Management:** PostgreSQL, MySQL, MongoDB  
-✅ **Web and API Development:** Django REST Framework, Flask, Reactjs, Bootstrap, HTML, CSS
+✅ **Programming & AI**: Python, SQL, JavaScript, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain
+
+✅ **Machine Learning & NLP**: Transformers, Embeddings, Fine-Tuning, RAG, Computer Vision
+
+✅ **MLOps & Cloud**: MLflow, DVC, Airflow, W&B, Docker, GitHub Actions, AWS (S3, EC2), CI/CD
+
+✅ **Backend Development**: FastAPI, Flask, Django REST, PostgreSQL, MongoDB, Celery, JWT
+
+✅ **Frontend Development**: React.js, Bootstrap, SWR
+
+✅ **Data & Visualization**: ETL Pipelines, Pandas, NumPy, Matplotlib, Tableau
 
 ---
 
